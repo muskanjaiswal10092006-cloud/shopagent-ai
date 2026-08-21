@@ -1,0 +1,6 @@
+{
+  "name": "ShopAgent AI",
+  "description": "AI Shopping Agent — Discover. Compare. Decide. Buy. Powered by natural language understanding, dynamic recommendation ranking, and commerce checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
